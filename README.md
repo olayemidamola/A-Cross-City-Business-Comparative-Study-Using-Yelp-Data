@@ -1,9 +1,9 @@
 # Yelp Capstone Project
 
-**Project Title:** Predicting Business Success and Closure Using Yelp Reviews and Metadata
-**Team:** Kayode Babalola, Qianru Deng (Charlotte), Damola Emmanuel Olayemi, Wangcheng Peng, Chinenye Alice Anieke
-**Date:** December 2025
-**Program:** St. Clair College – Data Analytics Capstone
+- **Project Title:** Predicting Business Success and Closure Using Yelp Reviews and Metadata
+- **Team:** Kayode Babalola, Qianru Deng (Charlotte), Damola Emmanuel Olayemi, Wangcheng Peng, Chinenye Alice Anieke
+- **Date:** December 2025
+- **Program:** St. Clair College – Data Analytics Capstone
 
 
 ## Repository Structure
