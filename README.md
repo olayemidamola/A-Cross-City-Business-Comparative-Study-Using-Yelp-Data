@@ -65,8 +65,8 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 
 | Name            | Role                       | Key Responsibility                          |
 | --------------- | -------------------------- | ------------------------------------------- |
-| Kayode Babalola | Project Lead               | Data cleaning, modeling, sentiment analysis |
-| Charlotte Deng  | Recommendation & Dashboard | Recommendation system, Tableau dashboard    |
+| Kayode Babalola | Data Preparation           | Data cleaning, modeling, sentiment analysis |
+| Charlotte Deng  | Project Lead               | Recommendation system, Tableau dashboard    |
 | Damola Emmanuel | Customer Segmentation      | K-Means, customer insights                  |
 | Wangcheng Peng  | EDA & Documentation        | Business overview, feature engineering      |
 | Chinenye Alice  | Feature & Marketing        | Feature creation, marketing strategy        |
